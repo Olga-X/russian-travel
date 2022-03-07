@@ -1,7 +1,7 @@
 .intro__title {
-    width: 690px;
-    height: 58px;
-    left: 148px;
+  width: 690px;
+    margin: 0 148px 0;
+    padding-top: 92px;
     font-style: normal;
     font-weight: 900;
     font-size: 54px;
