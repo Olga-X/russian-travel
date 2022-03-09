@@ -1,4 +1,5 @@
 .place__website {
   grid-area: website;
-  bottom: 0;
+  align-self: end;
+  padding-bottom: 8px;
 }

@@ -1,3 +1,24 @@
 .footer___copyright {
   color: #FFFFFF;
+  margin: 0;
 }
+@media screen and (max-width: 1024px) {
+  .footer___copyright {
+   
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footer___copyright {
+   
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer___copyright {
+    max-width: 186px;
+    font-size: 14px;
+    line-height: 14px;
+    padding: 48px 0 0;
+ 
+  }
