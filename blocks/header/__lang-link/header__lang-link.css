@@ -1,6 +1,5 @@
 .header__lang-link {
-    font-style: normal;
-    font-weight: normal;
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
 }

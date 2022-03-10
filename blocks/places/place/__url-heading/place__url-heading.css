@@ -9,21 +9,8 @@
   padding-bottom: 12px;
 }
 
-@media screen and (max-width: 1024px) {
+@media (max-width: 320px) {
   .place__url-heading {
-   
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .place__url-heading {
-    
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .place__url-heading {
-   
     margin: 0 16px;
   }
 }

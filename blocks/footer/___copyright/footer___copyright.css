@@ -1,24 +1,17 @@
 .footer___copyright {
+  max-width: 186px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 114%;
   color: #FFFFFF;
   margin: 0;
 }
-@media screen and (max-width: 1024px) {
-  .footer___copyright {
-   
-  }
-}
 
-@media screen and (max-width: 768px) {
-  .footer___copyright {
-   
-  }
-}
-
-@media screen and (max-width: 320px) {
+@media (max-width: 320px) {
   .footer___copyright {
     max-width: 186px;
-    font-size: 14px;
-    line-height: 14px;
+    font-size: 0.8rem;
+    line-height: 100%;
     padding: 48px 0 0;
- 
   }
+}
