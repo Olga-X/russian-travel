@@ -1,4 +1,4 @@
-.footer___copyright {
+.footer__copyright {
   max-width: 186px;
   font-weight: 400;
   font-size: 14px;
@@ -8,7 +8,7 @@
 }
 
 @media (max-width: 320px) {
-  .footer___copyright {
+  .footer__copyright {
     max-width: 186px;
     font-size: 0.8rem;
     line-height: 100%;
