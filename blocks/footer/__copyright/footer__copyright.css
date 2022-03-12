@@ -2,7 +2,7 @@
   max-width: 186px;
   font-weight: 400;
   font-size: 14px;
-  line-height: 114%;
+  line-height: 1.14;
   color: #FFFFFF;
   margin: 0;
 }
@@ -11,7 +11,7 @@
   .footer__copyright {
     max-width: 186px;
     font-size: 0.8rem;
-    line-height: 100%;
+    line-height: 1;
     padding: 48px 0 0;
   }
 }

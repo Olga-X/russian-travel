@@ -1,5 +1,17 @@
 .header__lang-link {
+  max-width: 29px;
   font-style: normal;
   font-weight: normal;
   color: #FFFFFF;
+  font-size: 1.5rem;
+  line-height: 1.17;
+  padding-left: 18px;
+}
+
+@media all and (min-width: 320px) and (max-width: 767px) {
+.header__lang-link {
+  max-width: 22px;
+  font-size: 1.12rem;
+  line-height: 1.11;
+}
 }
