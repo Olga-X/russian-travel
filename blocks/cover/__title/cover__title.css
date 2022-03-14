@@ -1,5 +1,6 @@
 .cover__title {
   max-width: 560px;
+  margin: 0;
   font-style: normal;
   font-weight: 900;
   font-size: 4.5rem;
@@ -8,16 +9,7 @@
   position: relative;
 }
 
-@media all and (min-width: 321px) and (max-width: 450px){
-  .cover__title {
-    max-width: 288px;
-    font-size: 2rem;
-    line-height: 1.09;
-  }
-}
-
-
-@media all and (max-width: 320px) {
+@media all and (min-width: 320px) and (max-width: 767px){
   .cover__title {
     max-width: 288px;
     font-size: 2rem;

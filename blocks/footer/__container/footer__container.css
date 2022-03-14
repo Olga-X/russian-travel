@@ -24,7 +24,6 @@
   .footer__container {
   max-width: 186px;
   padding-top: 64px;
-  display: flex;
   margin-left: 4px;
   flex-direction: column;
   }
